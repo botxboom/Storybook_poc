@@ -2,14 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
-
-### `initial setup`
+## Initial Setup
 
 * use `npm install` to install all dependencies.
 * use `npm run storybook` to explore storybook.
+
+
+## Available Scripts
+
+In the project directory, you can run:
 
 
 ### `npm run storybook`
